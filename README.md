@@ -11,7 +11,7 @@
 ## Part 2: Coding Technique Exploration
 100 word description about a coding technique that can implement the imaging technique
 
-Implemenation: [Kishi Mishu's "Twisted Trip](https://www.instagram.com/p/ClCAUUHI11U/?img_index=2)
+Implemenation: [Kishi Mishu's "Twisted Trip](https://www.instagram.com/p/ClCAUUHI11U/?img_index=1)
 
 
 ### The Code
