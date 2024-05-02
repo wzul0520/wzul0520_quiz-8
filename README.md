@@ -11,7 +11,7 @@ The city bending scene in "Inception" grabs attention by twisting the city in un
 ![Inception Clip 2](https://images.adsttc.com/media/images/5eee/3fa5/b357/658c/7f00/0115/newsletter/f7b775e2a139bf66eeb000f225bb1ef3.jpg?1592672158)
 
 ## Part 2: Coding Technique Exploration
-100 word description about a coding technique that can implement the imaging technique
+The GLSL shader code here crafts a mesmerizing visual vibe influenced by the city bending scene in Inception. The code utilizes mathematical functions to manipulate pixels' positions and colors dynamically, creating a distorted and abstract representation. By understanding how it works, I can attempt to make the selected artwork resemble the city bending effect in the movie. In doing so, I intend to create a surreal and captivating visual experience that captures the essence of the film's mind-bending scenes.
 
 Implemenation: [Kishi Mishu's "Twisted Trip](https://www.instagram.com/p/ClCAUUHI11U/?img_index=1)
 
