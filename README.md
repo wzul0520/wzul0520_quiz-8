@@ -10,3 +10,7 @@
 
 ## Part 2: Coding Technique Exploration
 100 word description about a coding technique that can implement the imaging technique
+
+```
+[ Coding technique placeholder ]
+```
