@@ -1,6 +1,6 @@
 # wzul0520_quiz-8
 
-[ Week 8 Quiz brief description ]
+In this quiz, I'll explore inspiring imaging techniques and their coding implementations. I'll choose an inspiring imaging technique, discuss its relevance briefly, and find a coding technique to match.
 
 ## Part 1: Imaging Technique Inspiration
 100 word description about an interesting imaging technique 
