@@ -15,10 +15,4 @@ The GLSL shader code here crafts a mesmerizing visual vibe influenced by the cit
 
 Implemenation: [Kishi Mishu's "Twisted Trip](https://www.instagram.com/p/ClCAUUHI11U/?img_index=1)
 
-
-### The Code
-```
-[ Coding technique placeholder ]
-```
-
 ![Code Implementation](link)
